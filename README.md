@@ -1,0 +1,2 @@
+# samba
+samba setting
